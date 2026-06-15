@@ -40,3 +40,5 @@ export const REDIS_KEYS = {
   SENSOR_STATUS: 'rail:sensor:status',
   FRAME_COUNT: 'rail:frame:count',
 };
+
+export const MILL_COUNT = 4;
